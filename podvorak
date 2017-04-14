@@ -1,5 +1,5 @@
 default partial alphanumeric_keys
-xkb_symbols "dvorak-programisto" {
+xkb_symbols "podvorak" {
     name[Group1]= "English (Programisto Dvorak)";
 
     key <TLDE> { [ dollar       , asciitilde    , grave         , dead_tilde    ] };
