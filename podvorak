@@ -17,6 +17,8 @@ xkb_symbols "podvorak" {
     key <AE11> { [ exclam       , 9             ] };
     key <AE12> { [ numbersign   , grave         , numbersign    , dead_grave    ] };
 
+    key <CAPS> { [ Alt_L        ] };
+
     key <AD01> { [ apostrophe   , quotedbl      ] };
     key <AD02> { [ comma        , less          ] };
     key <AD03> { [ period       , greater       ] };
